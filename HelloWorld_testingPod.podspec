@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'edward1879' => 'edward1879314@gmail.com' }
   s.source           = { :git => 'https://github.com/SunnySs/HelloWorld_testingPod.git', :tag => s.version.to_s }
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '9.0'
   s.source_files = 'HelloWorld_testingPod/Classes/**/*'
   
   # s.resource_bundles = {
