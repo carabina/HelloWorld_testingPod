@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HelloWorld_testingPod'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Progress Indicator'
   s.description      = 'This is a progress indicator view.'
 
